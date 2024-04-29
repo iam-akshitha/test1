@@ -26,6 +26,7 @@ main() {
     display_disk_utilization
     display_cpu_utilization
     display_memory_utilization
+    display
 }
  
 # Execute main function
